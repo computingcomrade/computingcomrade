@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Matthew but i usually go by Computing Comrade on the internet
+- 👀 I’m interested in web and game design
+- 🌱 I’m currently working on a discord bot called Merk Camp
